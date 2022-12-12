@@ -1,0 +1,12 @@
+product: api-tooling
+component: api-notebook
+asset: core
+
+strategy: node
+strategyVersion: 12
+version: 1.5
+nexusiq:
+  enabled: true
+requires:
+  db: false
+  deployment: false
